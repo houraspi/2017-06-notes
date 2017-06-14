@@ -1,6 +1,3 @@
-# Introduction
-
-
 ## Some recent cool stuffs
 
 * ["Resin" in Resin](https://resin.io/blog/resin-in-resin-how-to-make-a-literal-embedded-device/)
