@@ -32,3 +32,5 @@
   * ARMv6 architecture makes it difficult to compile
     * [Electron](https://github.com/electron/electron) or
     * [node-webkit/NW.js](https://github.com/nwjs/nw.js/)
+  * [i2c bus](https://www.i2c-bus.org/i2c-bus/)
+    * used [i2c](https://www.npmjs.com/package/i2c)
