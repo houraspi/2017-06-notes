@@ -12,3 +12,4 @@
 ## Show and tell
 
 * [Thermometer monitoring freezer](./thermometer-project-slides.pdf)
+  * using the [DS18b20](https://www.amazon.com/Vktech-DS18b20-Waterproof-Temperature-Transmitter/dp/B00CHEZ250)
