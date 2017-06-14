@@ -11,3 +11,10 @@
 
 * [Thermometer monitoring freezer](./thermometer-project-slides.pdf)
   * using the [DS18b20](https://www.amazon.com/Vktech-DS18b20-Waterproof-Temperature-Transmitter/dp/B00CHEZ250)
+* Smart Garden, modular garden
+  * TXRX classes for learning woodworking
+  * Learned about gardening at [Finca Tres Robles](http://www.smallplaces.org/fincatresrobles/)
+  * Weather station
+    * [ESP8266](https://www.amazon.com/HiLetgo-Version-NodeMCU-Internet-Development/dp/B010O1G1ES)
+    * [SparkFun Soil Moisture Sensor](https://www.sparkfun.com/products/13322)
+    
