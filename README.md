@@ -17,4 +17,16 @@
   * Weather station
     * [ESP8266](https://www.amazon.com/HiLetgo-Version-NodeMCU-Internet-Development/dp/B010O1G1ES)
     * [SparkFun Soil Moisture Sensor](https://www.sparkfun.com/products/13322)
-    
+* Touch interface for RFID control system
+  * [Raspberry Pi Zero](https://www.raspberrypi.org/blog/raspberry-pi-zero/)
+  * Runs
+    * Raspbian Jessie Lite
+    * Webpage loaded on the touch screen
+    * Webserver with Node.js
+      * Installation methods
+        * https://blog.miniarray.com/installing-node-js-on-a-raspberry-pi-zero-21a1522db2bb
+        * https://github.com/sdesalas/node-pi-zero
+      * Controls the GPIO
+    * xwindows
+
+
