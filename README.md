@@ -34,3 +34,6 @@
     * [node-webkit/NW.js](https://github.com/nwjs/nw.js/)
   * [i2c bus](https://www.i2c-bus.org/i2c-bus/)
     * used [i2c](https://www.npmjs.com/package/i2c)
+
+[Makey Makey controller video](https://twitter.com/txrxlabs/status/874379333602869249) which was demoed last time
+
